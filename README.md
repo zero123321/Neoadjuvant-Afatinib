@@ -1,2 +1,2 @@
 # Neoadjuvant-Afatinib
-# This single-arm, open-label, phase II trial (NCT04201756) aims to assess the feasibility of neoadjuvant Afatinib treatment for stage III NSCLCm+. Some codes used in this study were presented here.
+# This single-arm, open-label, phase II trial (NCT04201756) aims to assess the feasibility of neoadjuvant Afatinib treatment for stage III NSCLCm+. Some code used in this study was presented here.
